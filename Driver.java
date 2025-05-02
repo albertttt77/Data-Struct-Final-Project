@@ -6,7 +6,7 @@ public class Driver {
     String fileNames[][] = {{
       "./TestCase1/Department-ComputerScience.txt",
       "./TestCase1/Department-Mathematics.txt",
-      "./TestCase1/Department-Chemistry.txt",
+      "./TestCase1/Department-Chemistry.txt",  
       "./TestCase1/Department-PhysicsAndAstronomy.txt"},
       {
       "./TestCase1/Department-ComputerScience.txt",
